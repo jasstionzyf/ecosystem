@@ -1,5 +1,6 @@
 package org.tensorflow.spark.datasources.tfrecords.udf
 
+//import com.sun.rowset.internal.Row
 import org.apache.spark.sql.Row
 import org.apache.spark.sql.expressions.UserDefinedFunction
 import org.apache.spark.sql.functions.udf
